@@ -1,0 +1,8 @@
+[user]
+	name = Ben Newman
+	email = ben@newman.ws
+
+[alias]
+	cleanup = "!git branch --merged | grep  -v '\\*\\|master\\|develop' | xargs -n 1 git branch -d"
+	cleanuntrackeddry = "clean -ndx"
+	cleanuntrackedforce = "clean -fdx"
