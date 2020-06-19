@@ -1,0 +1,11 @@
+{
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "workbench.startupEditor": "none",
+    "window.titleBarStyle": "native",
+    "workbench.colorTheme": "Monokai Dimmed",
+    "files.hotExit": "off",
+    "editor.renderWhitespace": "boundary",
+    "editor.minimap.enabled": false,
+    "cSpell.language": "en-GB"
+}
